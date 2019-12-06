@@ -17,7 +17,7 @@ public class button {
 		@Override
 		public void actionPerformed(ActionEvent e) {
 			// TODO Auto-generated method stub
-			JFrame jf=new JFrame("源数据库编辑连接");
+			JFrame jf=new JFrame("源数据连接");
 			jf.setLayout(null);
 			
 			JLabel jl_address=new JLabel("地址");
